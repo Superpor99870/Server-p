@@ -512,7 +512,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-17 03:11:26 +0000",
       "minecraft:spider": "2025-04-17 03:11:13 +0000",
-      "minecraft:zombie": "2025-04-17 03:02:52 +0000"
+      "minecraft:zombie": "2025-04-17 03:02:52 +0000",
+      "minecraft:drowned": "2025-04-17 18:43:20 +0000"
     },
     "done": false
   },
@@ -524,7 +525,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-04-17 03:02:55 +0000"
+      "rotten_flesh": "2025-04-17 03:02:55 +0000",
+      "tropical_fish": "2025-04-17 18:42:28 +0000"
     },
     "done": false
   },
@@ -576,6 +578,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 18:33:35 +0000"
@@ -594,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 18:33:35 +0000"
@@ -603,6 +623,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-17 18:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:43:21 +0000"
     },
     "done": true
   },
@@ -627,6 +653,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 18:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:43:21 +0000"
     },
     "done": true
   },
