@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:stony_peaks": "2025-04-15 21:27:34 +0000",
       "minecraft:cherry_grove": "2025-04-15 21:57:09 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-17 03:03:22 +0000",
       "minecraft:dripstone_caves": "2025-04-17 02:54:41 +0000",
       "minecraft:windswept_savanna": "2025-04-15 21:27:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-17 02:53:07 +0000"
@@ -78,6 +79,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-04-17 02:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 03:11:19 +0000"
     },
     "done": true
   },
@@ -177,6 +184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-17 02:49:23 +0000"
@@ -255,6 +268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-17 02:52:16 +0000"
@@ -327,6 +346,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-17 03:11:26 +0000",
+      "minecraft:spider": "2025-04-17 03:11:13 +0000",
+      "minecraft:zombie": "2025-04-17 03:02:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-17 02:50:40 +0000"
@@ -375,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-17 02:49:22 +0000"
@@ -384,6 +423,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 02:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-17 03:02:52 +0000"
     },
     "done": true
   },
@@ -423,11 +468,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-17 02:53:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-04-17 03:02:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -438,6 +495,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-17 02:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 03:02:55 +0000"
     },
     "done": true
   },
@@ -462,6 +525,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-17 02:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-17 03:11:14 +0000"
     },
     "done": true
   },
