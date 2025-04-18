@@ -1,91 +1,44 @@
-[17:05:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:05:22] [ServerMain/INFO]: Loaded 1290 recipes
-[17:05:23] [ServerMain/INFO]: Loaded 1399 advancements
-[17:05:25] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:05:25] [Server thread/INFO]: Loading properties
-[17:05:25] [Server thread/INFO]: Default game type: SURVIVAL
-[17:05:25] [Server thread/INFO]: Generating keypair
-[17:05:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:05:25] [Server thread/INFO]: Using epoll channel type
-[17:05:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:05:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:05:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:05:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:05:26] [Server thread/INFO]: Preparing level "world"
-[17:05:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[17:05:44] [Server thread/INFO]: Time elapsed: 2200 ms
-[17:05:44] [Server thread/INFO]: Done (18.481s)! For help, type "help"
-[17:06:00] [Server thread/INFO]: Akukis[/192.168.194.127:60269] logged in with entity id 1 at (-62.28320855430016, 88.0, 311.1852962060353)
-[17:06:01] [Server thread/INFO]: Akukis joined the game
-[17:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:08:56] [Server thread/INFO]: [Akukis: Gave 1 [Iron Bars] to Akukis]
-[17:09:07] [Server thread/INFO]: [Akukis: Gave 1 [Iron Shovel] to Akukis]
-[17:10:28] [Server thread/INFO]: [Akukis: Gave 1 [Iron Axe] to Akukis]
-[17:11:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-41, y=13, z=350} jd{x=-41, y=14, z=350}
-[17:12:02] [Server thread/INFO]: Akukis was slain by Drowned
-[17:12:06] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:12:25] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:20:18] [Server thread/INFO]: Akukis was impaled by Drowned
-[17:20:21] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:20:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:23:03] [Server thread/INFO]: Akukis was impaled by Drowned
-[17:25:28] [Server thread/INFO]: Akukis was impaled by Drowned
-[17:25:31] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:25:49] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:27:38] [Server thread/INFO]: Akukis was shot by Skeleton
-[17:27:52] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:28:54] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:28:58] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:29:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:30:09] [Server thread/INFO]: [Akukis: Gave 1 [Iron Sword] to Akukis]
-[17:31:01] [Server thread/INFO]: Akukis lost connection: Disconnected
-[17:31:01] [Server thread/INFO]: Akukis left the game
-[17:31:09] [Server thread/INFO]: Akukis[/192.168.194.127:60537] logged in with entity id 3934 at (-27.642291992766513, 84.0, 332.28325229020675)
-[17:31:09] [Server thread/INFO]: Akukis joined the game
-[17:31:16] [Server thread/INFO]: Akukis lost connection: Disconnected
-[17:31:16] [Server thread/INFO]: Akukis left the game
-[17:35:58] [Server thread/INFO]: Akukis[/192.168.194.127:50174] logged in with entity id 4098 at (-27.642291992766513, 84.0, 332.28325229020675)
-[17:35:58] [Server thread/INFO]: Akukis joined the game
-[17:36:15] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:36:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:37:00] [Server thread/INFO]: [Akukis: Gave 1 [Black Bed] to Akukis]
-[17:37:14] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:38:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[17:38:46] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:39:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[17:41:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:42:10] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[17:42:16] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:03:21] [Server thread/INFO]: Akukis has made the advancement [Sweet Dreams]
-[19:04:06] [Server thread/INFO]: Akukis fell from a high place
-[19:06:38] [Server thread/INFO]: siganconsumiendo[/192.168.194.189:55362] logged in with entity id 14175 at (-31.5, 15.0, 432.5)
-[19:06:38] [Server thread/INFO]: siganconsumiendo joined the game
-[19:06:53] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19:09:41] [Server thread/INFO]: Akukis has made the advancement [Suit Up]
-[19:09:46] [Server thread/INFO]: siganconsumiendo has made the advancement [Stone Age]
-[19:13:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:14:12] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:14:41] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19:15:01] [Server thread/INFO]: siganconsumiendo has made the advancement [Getting an Upgrade]
-[19:16:37] [Server thread/INFO]: siganconsumiendo has made the advancement [Monster Hunter]
-[19:17:02] [Server thread/INFO]: siganconsumiendo was slain by Zombie
-[19:17:11] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[19:18:44] [Server thread/INFO]: Akukis was slain by Zombie
-[19:18:48] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19:19:26] [Server thread/INFO]: [Akukis: Applied effect Night Vision to siganconsumiendo]
-[19:20:54] [Server thread/INFO]: siganconsumiendo has made the advancement [Suit Up]
-[19:21:41] [Server thread/INFO]: siganconsumiendo was slain by Akukis
-[19:21:43] [Server thread/INFO]: Akukis was slain by Zombie
-[19:22:01] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:23:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:23:45] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[19:24:11] [Server thread/INFO]: siganconsumiendo has made the advancement [Acquire Hardware]
-[19:24:35] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:24:42] [Server thread/INFO]: siganconsumiendo has made the advancement [Isn't It Iron Pick]
-[19:24:50] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:24:54] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[19:25:32] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:47:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:47:06] [ServerMain/INFO]: Loaded 1290 recipes
+[19:47:06] [ServerMain/INFO]: Loaded 1399 advancements
+[19:47:06] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:47:06] [Server thread/INFO]: Loading properties
+[19:47:06] [Server thread/INFO]: Default game type: SURVIVAL
+[19:47:06] [Server thread/INFO]: Generating keypair
+[19:47:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:47:07] [Server thread/INFO]: Using epoll channel type
+[19:47:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:47:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:47:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:47:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:47:07] [Server thread/INFO]: Preparing level "world"
+[19:47:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:47:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:24] [Server thread/INFO]: Time elapsed: 824 ms
+[19:47:24] [Server thread/INFO]: Done (17.310s)! For help, type "help"
+[19:47:34] [Server thread/INFO]: Akukis[/192.168.194.127:51419] logged in with entity id 9 at (-32.49403383619296, 52.375647252658425, 320.30000001192093)
+[19:47:34] [Server thread/INFO]: Akukis joined the game
+[19:47:38] [Server thread/INFO]: siganconsumiendo[/192.168.194.189:59403] logged in with entity id 129 at (-41.69999998807907, 880.0, 315.34323678927285)
+[19:47:38] [Server thread/INFO]: siganconsumiendo joined the game
+[19:47:48] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:48:09] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:48:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:48:53] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:48:55] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.08387538731773958,-18.50462896487153,-0.3450782555489127
+[19:52:12] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:52:21] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:52:37] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:53:36] [Server thread/INFO]: siganconsumiendo was doomed to fall by Akukis
+[19:53:43] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:53:56] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:54:06] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:54:24] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[19:54:28] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:55:03] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[19:55:10] [Server thread/INFO]: Akukis was killed
+[19:55:10] [Server thread/INFO]: [Akukis: Killed Akukis]
+[19:56:11] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:56:25] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19:56:41] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:56:49] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
