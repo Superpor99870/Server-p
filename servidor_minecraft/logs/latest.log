@@ -69,3 +69,4 @@
 [20:09:56] [Server thread/WARN]: siganconsumiendo moved too quickly! 4.018987414661751,9.275002358961324,0.25243505467551586
 [20:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7149ms or 142 ticks behind
 [20:09:58] [Server thread/INFO]: siganconsumiendo drowned
+[20:23:38] [Server thread/INFO]: siganconsumiendo was impaled by Drowned
