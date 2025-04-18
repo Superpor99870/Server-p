@@ -409,7 +409,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-04-18 19:16:49 +0000",
-      "minecraft:creeper": "2025-04-18 19:16:37 +0000"
+      "minecraft:creeper": "2025-04-18 19:16:37 +0000",
+      "minecraft:drowned": "2025-04-18 19:57:52 +0000"
     },
     "done": false
   },
@@ -764,6 +765,36 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-04-18 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 19:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-18 19:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-18 20:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 19:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-18 19:52:49 +0000"
     },
     "done": true
   },
