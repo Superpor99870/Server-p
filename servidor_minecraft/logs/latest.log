@@ -208,3 +208,33 @@
 [22:07:37] [Server thread/INFO]: siganconsumiendo was slain by Zombie
 [22:07:41] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
 [22:08:05] [Server thread/INFO]: siganconsumiendo was slain by Zombie
+[22:08:13] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:08:18] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[22:08:51] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[22:09:02] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[22:09:29] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[22:10:05] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[22:11:56] [Server thread/INFO]: siganconsumiendo hit the ground too hard while trying to escape Akukis
+[22:12:00] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:12:03] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:12:29] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[22:12:37] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:12:48] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[22:12:51] [Server thread/INFO]: Akukis was killed
+[22:12:51] [Server thread/INFO]: [Akukis: Killed Akukis]
+[22:12:59] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:13:28] [Server thread/INFO]: [Akukis: Removed 2 item(s) from player siganconsumiendo]
+[22:13:34] [Server thread/INFO]: Akukis drowned
+[22:13:52] [Server thread/INFO]: [Akukis: Removed 1 item(s) from player siganconsumiendo]
+[22:13:58] [Server thread/INFO]: [Akukis: Removed 1 item(s) from player siganconsumiendo]
+[22:14:26] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:14:44] [Server thread/INFO]: Akukis has made the advancement [Cover Me with Diamonds]
+[22:15:49] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[22:16:08] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[22:16:20] [Server thread/INFO]: siganconsumiendo lost connection: Kicked by an operator
+[22:16:20] [Server thread/INFO]: siganconsumiendo left the game
+[22:16:20] [Server thread/INFO]: [Akukis: Kicked siganconsumiendo: Kicked by an operator]
+[22:16:20] [Server thread/WARN]: handleDisconnection() called twice
+[22:17:36] [Server thread/INFO]: siganconsumiendo[/192.168.194.189:57880] logged in with entity id 28920 at (-29.612471277549897, 78.0, 342.0016751545311)
+[22:17:36] [Server thread/INFO]: siganconsumiendo joined the game
+[22:18:15] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
