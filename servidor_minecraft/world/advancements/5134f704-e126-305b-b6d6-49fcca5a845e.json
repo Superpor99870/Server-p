@@ -530,6 +530,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-14 03:35:16 +0000",
       "golden_apple": "2025-05-14 02:35:29 +0000",
+      "cooked_chicken": "2025-05-15 01:20:36 +0000",
       "rotten_flesh": "2025-05-14 02:05:41 +0000",
       "cooked_mutton": "2025-05-14 02:35:50 +0000",
       "cooked_beef": "2025-05-14 03:11:15 +0000"
@@ -1093,7 +1094,8 @@
       "minecraft:piglin_brute": "2025-05-14 03:26:13 +0000",
       "minecraft:spider": "2025-05-14 02:39:31 +0000",
       "minecraft:zombie": "2025-05-14 02:40:07 +0000",
-      "minecraft:evoker": "2025-05-14 02:37:05 +0000"
+      "minecraft:evoker": "2025-05-14 02:37:05 +0000",
+      "minecraft:hoglin": "2025-05-15 01:11:39 +0000"
     },
     "done": false
   },
@@ -1684,6 +1686,30 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-05-14 03:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-15 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-15 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-15 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-15 01:22:58 +0000"
     },
     "done": true
   },
