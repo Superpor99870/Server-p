@@ -8,14 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-05-14 02:05:37 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-14 03:40:18 +0000",
-      "minecraft:desert": "2025-05-14 02:03:44 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-14 03:40:17 +0000",
       "minecraft:forest": "2025-05-14 03:39:44 +0000",
       "minecraft:sparse_jungle": "2025-05-14 02:00:31 +0000",
+      "minecraft:river": "2025-05-14 02:00:19 +0000",
+      "minecraft:lush_caves": "2025-05-15 01:45:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-14 03:40:18 +0000",
+      "minecraft:desert": "2025-05-14 02:03:44 +0000",
       "minecraft:ocean": "2025-05-14 03:40:29 +0000",
       "minecraft:jungle": "2025-05-14 03:37:17 +0000",
-      "minecraft:river": "2025-05-14 02:00:19 +0000",
       "minecraft:savanna": "2025-05-14 02:07:11 +0000",
       "minecraft:wooded_badlands": "2025-05-14 02:03:20 +0000",
       "minecraft:bamboo_jungle": "2025-05-14 01:59:31 +0000"
@@ -533,7 +534,8 @@
       "cooked_chicken": "2025-05-15 01:20:36 +0000",
       "rotten_flesh": "2025-05-14 02:05:41 +0000",
       "cooked_mutton": "2025-05-14 02:35:50 +0000",
-      "cooked_beef": "2025-05-14 03:11:15 +0000"
+      "cooked_beef": "2025-05-14 03:11:15 +0000",
+      "tropical_fish": "2025-05-15 01:53:33 +0000"
     },
     "done": false
   },
@@ -1710,6 +1712,84 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-15 01:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 01:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-15 01:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-15 01:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-15 01:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-15 02:02:53 +0000"
     },
     "done": true
   },
