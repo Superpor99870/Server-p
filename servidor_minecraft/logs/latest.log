@@ -1,100 +1,26 @@
-[01:57:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:57:25] [ServerMain/INFO]: Found new data pack file/Amplified_Nether_1.21_v1.2.8 (1).zip, loading it automatically
-[01:57:25] [ServerMain/INFO]: Found new data pack file/Terralith_1.21_v2.5.8.zip, loading it automatically
-[01:57:29] [ServerMain/INFO]: Loaded 1296 recipes
-[01:57:29] [ServerMain/INFO]: Loaded 1400 advancements
-[01:57:30] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:57:30] [Server thread/INFO]: Loading properties
-[01:57:30] [Server thread/INFO]: Default game type: SURVIVAL
-[01:57:30] [Server thread/INFO]: Generating keypair
-[01:57:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:57:30] [Server thread/INFO]: Using epoll channel type
-[01:57:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:57:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:57:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:57:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:57:31] [Server thread/INFO]: Preparing level "world"
-[01:57:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:57:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:58:05] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[01:58:05] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[01:58:05] [Server thread/INFO]: Time elapsed: 25367 ms
-[01:58:05] [Server thread/INFO]: Done (34.354s)! For help, type "help"
-[01:59:31] [Server thread/INFO]: Akukis[/192.168.194.127:63300] logged in with entity id 14 at (-13.5, 66.0, 73.5)
-[01:59:31] [Server thread/INFO]: Akukis joined the game
-[02:01:30] [Server thread/INFO]: cuycito[/192.168.194.107:50096] logged in with entity id 820 at (-21.5, 89.0, 59.5)
-[02:01:30] [Server thread/INFO]: cuycito joined the game
-[02:01:59] [Server thread/INFO]: cuycito fell off some vines
-[02:02:19] [Server thread/INFO]: [Akukis: Gamerule keepInventory is now set to: true]
-[02:05:47] [Server thread/WARN]: cuycito moved too quickly! 4.723913700487927,0.5009966402674735,-9.078441758852328
-[02:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[02:06:04] [Server thread/WARN]: cuycito moved too quickly! 9.105345670510546,-2.0554624345250403,-4.298399541678279
-[02:06:04] [Server thread/WARN]: Akukis moved too quickly! -5.759941607934593,2.024424088213692,8.175639729207518
-[02:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[02:07:06] [Server thread/INFO]: cuycito has made the advancement [Stone Age]
-[02:07:36] [Server thread/INFO]: cuycito has made the advancement [Getting an Upgrade]
-[02:08:00] [Server thread/INFO]: Akukis has made the advancement [Sweet Dreams]
-[02:08:04] [Server thread/INFO]: cuycito lost connection: Disconnected
-[02:08:04] [Server thread/INFO]: cuycito left the game
-[02:08:17] [Server thread/INFO]: cuycito[/192.168.194.107:50127] logged in with entity id 5192 at (132.33098052145354, 65.0, 11.48940862566779)
-[02:08:17] [Server thread/INFO]: cuycito joined the game
-[02:09:18] [Server thread/INFO]: Akukis has made the advancement [Stone Age]
-[02:09:27] [Server thread/INFO]: Akukis has made the advancement [Getting an Upgrade]
-[02:11:45] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:12:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:12:22] [Server thread/INFO]: cuycito has made the advancement [Monster Hunter]
-[02:13:01] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:13:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:13:24] [Server thread/INFO]: cuycito has made the advancement [Acquire Hardware]
-[02:13:31] [Server thread/INFO]: cuycito has made the advancement [Isn't It Iron Pick]
-[02:14:36] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:15:00] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:17:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-571, y=104, z=49} jd{x=-572, y=104, z=47}
+[00:54:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:54:30] [ServerMain/INFO]: Loaded 1296 recipes
+[00:54:31] [ServerMain/INFO]: Loaded 1400 advancements
+[00:54:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:54:32] [Server thread/INFO]: Loading properties
+[00:54:32] [Server thread/INFO]: Default game type: SURVIVAL
+[00:54:32] [Server thread/INFO]: Generating keypair
+[00:54:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:54:33] [Server thread/INFO]: Using epoll channel type
+[00:54:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:54:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:54:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:54:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:54:33] [Server thread/INFO]: Preparing level "world"
+[00:54:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:54:53] [Server thread/INFO]: Time elapsed: 2894 ms
+[00:54:53] [Server thread/INFO]: Done (19.708s)! For help, type "help"
+[00:55:14] [Server thread/INFO]: Akukis[/192.168.194.127:52532] logged in with entity id 18 at (-1389.4200568540589, 68.0, 999.713680987683)
+[00:55:15] [Server thread/INFO]: Akukis joined the game
+[01:01:20] [Server thread/INFO]: Akukis was slain by Enderman
