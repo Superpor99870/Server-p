@@ -1,72 +1,41 @@
-[21:03:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:03:34] [ServerMain/INFO]: Loaded 1296 recipes
-[21:03:35] [ServerMain/INFO]: Loaded 1400 advancements
-[21:03:36] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:03:36] [Server thread/INFO]: Loading properties
-[21:03:36] [Server thread/INFO]: Default game type: SURVIVAL
-[21:03:36] [Server thread/INFO]: Generating keypair
-[21:03:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:03:37] [Server thread/INFO]: Using epoll channel type
-[21:03:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:03:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:03:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:03:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:03:37] [Server thread/INFO]: Preparing level "world"
-[21:03:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:51] [Server thread/INFO]: Time elapsed: 2919 ms
-[21:03:51] [Server thread/INFO]: Done (13.676s)! For help, type "help"
-[21:04:09] [Server thread/INFO]: Akukis[/192.168.194.127:50071] logged in with entity id 6 at (-1.0317585612637497, 64.0, 482.3022873069838)
-[21:04:09] [Server thread/INFO]: Akukis joined the game
-[21:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
-[21:06:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:07:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:07:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:07:36] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:10:03] [Server thread/INFO]: Akukis fell from a high place
-[21:11:31] [Server thread/INFO]: Villager cmk['Butcher'/2652, l='ServerLevel[world]', x=-441.44, y=98.25, z=22.74] died, message: 'Butcher was slain by Akukis'
-[21:12:58] [Server thread/INFO]: [Akukis: Gave 64 [Diamond] to Akukis]
-[21:13:26] [Server thread/INFO]: [Akukis: Gave 64 [Emerald] to Akukis]
-[21:14:39] [Server thread/INFO]: [Akukis: Gave 10000 experience points to Akukis]
-[21:15:31] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Sword] to Akukis]
-[21:15:53] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:18:49] [Server thread/INFO]: Villager cmk['Villager'/2674, l='ServerLevel[world]', x=-436.50, y=72.00, z=-34.70] died, message: 'Villager was slain by Zombie'
-[21:19:16] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:19:24] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:19:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:21:36] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Axe] to Akukis]
-[21:22:17] [Server thread/INFO]: Villager cmk['Farmer'/2672, l='ServerLevel[world]', x=-444.76, y=96.00, z=9.70] died, message: 'Farmer hit the ground too hard while trying to escape Zombie'
-[21:23:12] [Server thread/INFO]: [Akukis: Gave 64 [Torch] to Akukis]
-[21:25:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:26:01] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:28:29] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:28:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:30:06] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:30:21] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:30:23] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:31:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:33:20] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:33:26] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:33:43] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:33:46] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:34:13] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:34:20] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:40:02] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:40:02] [Server thread/INFO]: Named entity cgq['Crystal'/6846, l='ServerLevel[world]', x=-434.50, y=107.00, z=13.50] died: Crystal suffocated in a wall
-[21:40:05] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:43:51] [Server thread/INFO]: Villager cmk['Librarian'/2662, l='ServerLevel[world]', x=-409.70, y=84.06, z=-6.50] died, message: 'Librarian was slain by Zombie'
-[21:47:26] [Server thread/INFO]: Villager cmk['Toolsmith'/2673, l='ServerLevel[world]', x=-528.78, y=92.00, z=-32.30] died, message: 'Toolsmith was slain by Zombie'
-[21:48:24] [Server thread/INFO]: Villager cmk['Fisherman'/2663, l='ServerLevel[world]', x=-409.70, y=84.06, z=-6.54] died, message: 'Fisherman was slain by Zombie'
-[21:52:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:52:56] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:53:32] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:54:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:56:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:56:21] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:57:40] [Server thread/INFO]: Akukis lost connection: Disconnected
-[21:57:40] [Server thread/INFO]: Akukis left the game
+[02:16:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:16:33] [ServerMain/INFO]: Loaded 1296 recipes
+[02:16:34] [ServerMain/INFO]: Loaded 1400 advancements
+[02:16:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:16:35] [Server thread/INFO]: Loading properties
+[02:16:35] [Server thread/INFO]: Default game type: SURVIVAL
+[02:16:35] [Server thread/INFO]: Generating keypair
+[02:16:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:16:36] [Server thread/INFO]: Using epoll channel type
+[02:16:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:16:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:16:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:16:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:16:36] [Server thread/INFO]: Preparing level "world"
+[02:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:16:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[02:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:16:53] [Server thread/INFO]: Time elapsed: 4312 ms
+[02:16:53] [Server thread/INFO]: Done (17.650s)! For help, type "help"
+[02:19:16] [Server thread/INFO]: Akukis[/192.168.194.127:50921] logged in with entity id 6 at (-433.5462537379743, 103.0, 11.622622214762771)
+[02:19:17] [Server thread/INFO]: Akukis joined the game
+[02:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
+[02:19:39] [Server thread/INFO]: cuycito[/192.168.194.107:51933] logged in with entity id 274 at (-1408.4573760370347, -26.976084091187584, 533.4875000119209)
+[02:19:39] [Server thread/INFO]: cuycito joined the game
+[02:20:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:20:54] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:20:54] [Server thread/INFO]: Akukis has made the advancement [Minecraft: Trial(s) Edition]
+[02:21:51] [Server thread/INFO]: Locating element minecraft:trial_chambers took 1 ms
+[02:21:55] [Server thread/INFO]: [Akukis: Teleported Akukis to -1375.500000, -2.140999, 544.500000]
+[02:22:45] [Server thread/INFO]: [Akukis: Applied effect Night Vision to Akukis]
+[02:24:47] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:25:36] [Server thread/INFO]: cuycito hit the ground too hard while trying to escape Breeze
+[02:25:41] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:26:08] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
