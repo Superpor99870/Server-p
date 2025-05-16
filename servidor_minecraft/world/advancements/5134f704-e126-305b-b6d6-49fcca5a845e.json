@@ -14,6 +14,7 @@
       "minecraft:river": "2025-05-14 02:00:19 +0000",
       "minecraft:lush_caves": "2025-05-15 01:45:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-14 03:40:18 +0000",
+      "minecraft:eroded_badlands": "2025-05-16 02:49:59 +0000",
       "minecraft:desert": "2025-05-14 02:03:44 +0000",
       "minecraft:ocean": "2025-05-14 03:40:29 +0000",
       "minecraft:jungle": "2025-05-14 03:37:17 +0000",
@@ -1090,16 +1091,17 @@
     "criteria": {
       "minecraft:pillager": "2025-05-14 02:34:59 +0000",
       "minecraft:skeleton": "2025-05-14 02:40:29 +0000",
+      "minecraft:zombified_piglin": "2025-05-14 03:44:20 +0000",
+      "minecraft:witch": "2025-05-14 02:35:22 +0000",
+      "minecraft:hoglin": "2025-05-15 01:11:39 +0000",
       "minecraft:piglin": "2025-05-14 03:16:46 +0000",
       "minecraft:vindicator": "2025-05-15 03:26:16 +0000",
-      "minecraft:zombified_piglin": "2025-05-14 03:44:20 +0000",
       "minecraft:enderman": "2025-05-14 03:44:43 +0000",
-      "minecraft:witch": "2025-05-14 02:35:22 +0000",
       "minecraft:piglin_brute": "2025-05-14 03:26:13 +0000",
       "minecraft:spider": "2025-05-14 02:39:31 +0000",
       "minecraft:zombie": "2025-05-14 02:40:07 +0000",
-      "minecraft:evoker": "2025-05-14 02:37:05 +0000",
-      "minecraft:hoglin": "2025-05-15 01:11:39 +0000"
+      "minecraft:zombie_villager": "2025-05-16 02:27:44 +0000",
+      "minecraft:evoker": "2025-05-14 02:37:05 +0000"
     },
     "done": false
   },
@@ -1879,9 +1881,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-05-16 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-16 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-16 02:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-16 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-16 02:31:28 +0000"
     },
     "done": true
   },
