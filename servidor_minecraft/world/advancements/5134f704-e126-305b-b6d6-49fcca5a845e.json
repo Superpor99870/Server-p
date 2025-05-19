@@ -8,19 +8,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-05-14 02:05:37 +0000",
+      "minecraft:cold_ocean": "2025-05-16 03:01:57 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-14 03:40:17 +0000",
+      "minecraft:dark_forest": "2025-05-16 02:58:13 +0000",
       "minecraft:forest": "2025-05-14 03:39:44 +0000",
+      "minecraft:taiga": "2025-05-16 03:05:30 +0000",
       "minecraft:sparse_jungle": "2025-05-14 02:00:31 +0000",
       "minecraft:river": "2025-05-14 02:00:19 +0000",
       "minecraft:lush_caves": "2025-05-15 01:45:33 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-16 03:12:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-14 03:40:18 +0000",
+      "minecraft:frozen_ocean": "2025-05-16 03:12:31 +0000",
       "minecraft:eroded_badlands": "2025-05-16 02:49:59 +0000",
       "minecraft:desert": "2025-05-14 02:03:44 +0000",
       "minecraft:ocean": "2025-05-14 03:40:29 +0000",
       "minecraft:jungle": "2025-05-14 03:37:17 +0000",
+      "minecraft:birch_forest": "2025-05-16 02:59:49 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-16 03:00:06 +0000",
       "minecraft:savanna": "2025-05-14 02:07:11 +0000",
       "minecraft:wooded_badlands": "2025-05-14 02:03:20 +0000",
-      "minecraft:bamboo_jungle": "2025-05-14 01:59:31 +0000"
+      "minecraft:bamboo_jungle": "2025-05-14 01:59:31 +0000",
+      "minecraft:plains": "2025-05-16 03:03:45 +0000"
     },
     "done": false
   },
@@ -532,10 +540,12 @@
     "criteria": {
       "cooked_porkchop": "2025-05-14 03:35:16 +0000",
       "golden_apple": "2025-05-14 02:35:29 +0000",
+      "bread": "2025-05-16 03:59:04 +0000",
       "cooked_chicken": "2025-05-15 01:20:36 +0000",
       "rotten_flesh": "2025-05-14 02:05:41 +0000",
       "cooked_mutton": "2025-05-14 02:35:50 +0000",
       "cooked_beef": "2025-05-14 03:11:15 +0000",
+      "cod": "2025-05-16 03:14:08 +0000",
       "tropical_fish": "2025-05-15 01:53:33 +0000",
       "golden_carrot": "2025-05-15 21:23:01 +0000"
     },
@@ -1090,16 +1100,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-14 02:34:59 +0000",
+      "minecraft:blaze": "2025-05-16 03:28:24 +0000",
       "minecraft:skeleton": "2025-05-14 02:40:29 +0000",
       "minecraft:zombified_piglin": "2025-05-14 03:44:20 +0000",
       "minecraft:witch": "2025-05-14 02:35:22 +0000",
       "minecraft:hoglin": "2025-05-15 01:11:39 +0000",
+      "minecraft:shulker": "2025-05-16 04:07:40 +0000",
       "minecraft:piglin": "2025-05-14 03:16:46 +0000",
       "minecraft:vindicator": "2025-05-15 03:26:16 +0000",
       "minecraft:enderman": "2025-05-14 03:44:43 +0000",
       "minecraft:piglin_brute": "2025-05-14 03:26:13 +0000",
       "minecraft:spider": "2025-05-14 02:39:31 +0000",
       "minecraft:zombie": "2025-05-14 02:40:07 +0000",
+      "minecraft:drowned": "2025-05-16 03:15:48 +0000",
       "minecraft:zombie_villager": "2025-05-16 02:27:44 +0000",
       "minecraft:evoker": "2025-05-14 02:37:05 +0000"
     },
@@ -1289,9 +1302,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-14 03:17:02 +0000",
       "minecraft:nether_wastes": "2025-05-14 03:10:19 +0000",
-      "minecraft:soul_sand_valley": "2025-05-14 03:16:36 +0000"
+      "minecraft:soul_sand_valley": "2025-05-14 03:16:36 +0000",
+      "minecraft:basalt_deltas": "2025-05-16 03:17:55 +0000",
+      "minecraft:warped_forest": "2025-05-16 03:21:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -1881,21 +1896,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-05-16 02:31:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-05-16 02:20:54 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "tamed_animal": "2025-05-16 02:35:32 +0000"
+      "has_planks": "2025-05-16 02:31:28 +0000"
     },
     "done": true
   },
@@ -1917,21 +1926,9 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-05-16 02:33:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-16 02:31:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-16 02:41:43 +0000"
     },
     "done": true
   },
@@ -1956,6 +1953,252 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-16 02:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-16 02:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-16 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-16 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-16 03:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-16 03:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-16 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-16 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-16 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-16 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-16 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-16 03:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-16 03:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-16 03:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-16 03:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-16 03:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-16 03:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-16 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-16 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-16 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-16 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-16 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-16 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-16 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-16 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-16 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-16 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-16 03:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-16 04:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-16 04:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-16 04:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-16 04:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-16 04:10:43 +0000"
     },
     "done": true
   },
