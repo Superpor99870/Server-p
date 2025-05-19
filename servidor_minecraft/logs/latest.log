@@ -30,3 +30,13 @@
 [21:40:57] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [21:41:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [21:42:07] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:49:11] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:49:30] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:51:18] [Server thread/INFO]: Akukis lost connection: Disconnected
+[21:51:18] [Server thread/INFO]: Akukis left the game
+[21:51:58] [Server thread/INFO]: Akukis[/192.168.194.127:58868] logged in with entity id 3177 at (62.83205945649841, 89.02442408821369, 365.03498001347015)
+[21:51:58] [Server thread/INFO]: Akukis joined the game
+[21:52:56] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:55:03] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:55:46] [Server thread/INFO]: Akukis lost connection: Disconnected
+[21:55:46] [Server thread/INFO]: Akukis left the game

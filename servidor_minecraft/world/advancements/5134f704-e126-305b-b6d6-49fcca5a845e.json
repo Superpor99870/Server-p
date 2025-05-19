@@ -2762,5 +2762,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-19 21:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-19 21:48:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
