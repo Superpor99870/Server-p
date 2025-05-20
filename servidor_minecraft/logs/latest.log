@@ -112,3 +112,43 @@
 [02:20:00] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [02:21:56] [Server thread/INFO]: [Akukis: Gave 1 [Diamond Pickaxe] to Akukis]
 [02:22:35] [Server thread/INFO]: siganconsumiendo fell from a high place
+[02:22:54] [Server thread/INFO]: cuycito[/192.168.194.107:54563] logged in with entity id 32704 at (143.8681220566348, 66.0, -122.32966502707501)
+[02:22:54] [Server thread/INFO]: cuycito joined the game
+[02:23:57] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:24:02] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:24:10] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:24:16] [Server thread/INFO]: cuycito was killed
+[02:24:16] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:24:20] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:24:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:24:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:24:47] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:25:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=-56, z=350} jd{x=92, y=-60, z=350}
+[02:25:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=91, y=-60, z=348} jd{x=92, y=-61, z=349}
+[02:25:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=-58, z=352} jd{x=92, y=-59, z=352}
+[02:25:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=-58, z=352} jd{x=92, y=-59, z=352}
+[02:25:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=-58, z=352} jd{x=92, y=-59, z=352}
+[02:25:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=-58, z=352} jd{x=92, y=-59, z=352}
+[02:26:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=146, y=-58, z=336} jd{x=146, y=-59, z=337}
+[02:26:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=146, y=-58, z=302} jd{x=146, y=-59, z=303}
+[02:26:44] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:26:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:28:58] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:29:09] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:29:13] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:29:14] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:30:07] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[02:30:07] [Server thread/INFO]: siganconsumiendo left the game
+[02:31:51] [Server thread/INFO]: cuycito was killed
+[02:31:51] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:32:01] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:32:21] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[02:32:34] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[02:32:45] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[02:32:47] [Server thread/INFO]: cuycito was blown up by Creeper
+[02:32:56] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:33:16] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:33:19] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[02:33:24] [Server thread/INFO]: [Akukis: Summoned new Creeper]
+[02:33:27] [Server thread/INFO]: siganconsumiendo[/192.168.194.189:55315] logged in with entity id 40330 at (104.87122158796102, -57.0, 354.96951392215374)
+[02:33:27] [Server thread/INFO]: siganconsumiendo joined the game
