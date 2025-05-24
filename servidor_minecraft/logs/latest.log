@@ -1,21 +1,30 @@
-[02:56:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:56:04] [ServerMain/INFO]: Loaded 1296 recipes
-[02:56:04] [ServerMain/INFO]: Loaded 1400 advancements
-[02:56:05] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:56:05] [Server thread/INFO]: Loading properties
-[02:56:05] [Server thread/INFO]: Default game type: SURVIVAL
-[02:56:05] [Server thread/INFO]: Generating keypair
-[02:56:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:56:06] [Server thread/INFO]: Using epoll channel type
-[02:56:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:56:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:56:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:56:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:56:06] [Server thread/INFO]: Preparing level "world"
-[02:56:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:56:16] [Server thread/INFO]: Time elapsed: 1730 ms
-[02:56:16] [Server thread/INFO]: Done (10.401s)! For help, type "help"
+[02:06:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:06:59] [ServerMain/INFO]: Loaded 1296 recipes
+[02:07:00] [ServerMain/INFO]: Loaded 1400 advancements
+[02:07:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:07:01] [Server thread/INFO]: Loading properties
+[02:07:01] [Server thread/INFO]: Default game type: SURVIVAL
+[02:07:01] [Server thread/INFO]: Generating keypair
+[02:07:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:07:02] [Server thread/INFO]: Using epoll channel type
+[02:07:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:07:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:07:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:07:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:07:02] [Server thread/INFO]: Preparing level "world"
+[02:07:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:07:15] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[02:07:15] [Server thread/INFO]: Time elapsed: 3126 ms
+[02:07:15] [Server thread/INFO]: Done (12.398s)! For help, type "help"
+[02:07:17] [Server thread/INFO]: cuycito[/192.168.194.107:50296] logged in with entity id 33 at (-130.24082302429943, 72.0, 4.1285177679996155)
+[02:07:17] [Server thread/INFO]: cuycito joined the game
+[02:10:45] [Server thread/WARN]: Acacia Boat (vehicle of cuycito) moved wrongly! 0.4035018272643356
+[02:10:45] [Server thread/WARN]: Acacia Boat (vehicle of cuycito) moved wrongly! 0.6134262751719461
+[02:11:32] [Server thread/INFO]: cuycito was slain by Zombie
+[02:15:18] [Server thread/INFO]: cuycito drowned
