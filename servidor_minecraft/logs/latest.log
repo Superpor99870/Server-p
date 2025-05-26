@@ -26,3 +26,9 @@
 [01:54:00] [Server thread/INFO]: cuycito joined the game
 [02:02:45] [Server thread/INFO]: cuycito tried to swim in lava
 [02:06:21] [Server thread/INFO]: cuycito tried to swim in lava
+[02:13:29] [Server thread/WARN]: cuycito moved too quickly! -2.636125867765145,-3.0408445804878,-9.552129694235248
+[02:13:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[02:13:46] [Server thread/INFO]: cuycito lost connection: Disconnected
+[02:13:46] [Server thread/INFO]: cuycito left the game
+[02:14:36] [Server thread/INFO]: cuycito[/192.168.194.107:54064] logged in with entity id 5733 at (-775.0181395174549, 97.0, -337.72318607818613)
+[02:14:36] [Server thread/INFO]: cuycito joined the game
